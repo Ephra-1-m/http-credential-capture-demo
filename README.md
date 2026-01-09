@@ -51,6 +51,15 @@ All activity in this project is **strictly legal and ethical**:
    ![IP Address](screenshots/05_ipaddress_on_chromebook_cropped.png)
 
 ---
+## Skills Demonstrated
+
+- Python HTTP server setup and handling POST requests  
+- Basic HTML form creation  
+- TCP/IP network understanding and traffic capture with tcpdump  
+- Linux Crostini environment setup on Chromebook (Debian-based container)  
+- Ethical considerations in credential capture experiments
+
+---
 
 ## Notes on Wireshark / Network Limitations
 
